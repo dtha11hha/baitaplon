@@ -1,1 +1,8 @@
-# baitaplon
+GAME : NÉ XE 
+
+THỜI GIAN LÀM : 2 TUẦN !
+
+CÁCH CHƠI : DÙNG CÁC PHÍM W-LÊN S-XUỐNG A-QUA TRÁI D- QUA PHẢI ĐỂ NÉ CÁC CHƯỚNG NGẠI VẬT ! KHI TÍCH ĐƯỢC 20 ĐIỂM SẼ ĐƯỢC CỘNG THÊM 1 MẠNG 
+TRÒ CHƠI KẾT THÚC KHI SỐ MẠNG < 1 ! NGOÀI RA XE CÒN CÓ KHẢ NĂNG TỰ ĐỘNG CHƠI !
+
+HƯƠNG PHÁT TRIỂN : THÊM CHỨC NĂNG BẮN ĐẠN CHO XE CỦA NGƯỜI CHƠI VÀ TỐI ƯU THUẬT TOÁN TỰ ĐỘNG CHƠI CHO XE ! 
